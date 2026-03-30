@@ -12,3 +12,4 @@ seaborn
 reportlab
 category_encoders
 scipy
+streamlit-option-menu
